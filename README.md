@@ -2,7 +2,7 @@
 
 Java y Spring Boot practicas de aprendizaje.
 
-En estas practicas comencemos el desarrollo web Java a través de Servlets,
+En estas practicas conocemos el desarrollo web Java a través de Servlets,
 para construir una buena base y aprender los patrones relacionados
 con una aplicación web, como MVC (Model-View-Controller).
 
